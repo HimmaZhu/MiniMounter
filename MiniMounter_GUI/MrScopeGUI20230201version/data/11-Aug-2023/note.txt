@@ -1,0 +1,4 @@
+11-Aug-2023 13:39:09.\data/11-Aug-2023// Folder created
+
+11-Aug-2023 13:39:34 camera failed to initialized
+

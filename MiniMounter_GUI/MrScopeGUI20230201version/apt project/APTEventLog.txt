@@ -1,0 +1,110 @@
+*****************************************************************************
+
+Event Log generated 20:04:18  星期日, 十二月 11, 2022
+Thorlabs APT Logging Server (Built: Apr 15 2021 08:35:02). 
+Server Version:- 3:0:0:6.
+
+
+20:03:52:0945> Error [Code = 10001]:-
+	[MG17Core.DLL] CMGControls::SendMGMsgHW(); Internal Code = 16352908.
+	Description: Internal Error
+	Notes: An APT Server internal error has occurred.
+	Extra Info: Failed to send message.
+20:03:54:0499> [SN 26004469] CMGMotorCtrl::MoveJog(0, 2)
+	[Internal Code: 11420508; Description: 'Normal' category event.; Notes: No notes.; Extra Info: No extra information.]
+20:03:54:0499> Error [Code = 10001]:-
+	[MG17Core.DLL] Internal; Internal Code = 18190209.
+	Description: Internal Error
+	Notes: An APT Server internal error has occurred.
+	Extra Info: No extra information.
+20:03:54:0860> Error [Code = 10001]:-
+	[MG17Core.DLL] CMGControls::SendMGMsgHW(); Internal Code = 16352908.
+	Description: Internal Error
+	Notes: An APT Server internal error has occurred.
+	Extra Info: Failed to send message.
+20:03:55:0212> [SN 26004285] CMGMotorCtrl::LLGetStatusBits(v,rv)
+	[Internal Code: 19201205; Description: 'Normal' category event.; Notes: No notes.; Extra Info: No extra information.]
+20:03:55:0212> Error [Code = 10001]:-
+	[MG17Core.DLL] Internal; Internal Code = 18190209.
+	Description: Internal Error
+	Notes: An APT Server internal error has occurred.
+	Extra Info: No extra information.
+20:03:55:0384> Error [Code = 10001]:-
+	[MG17Core.DLL] CMGControls::SendMGMsgHW(); Internal Code = 16352908.
+	Description: Internal Error
+	Notes: An APT Server internal error has occurred.
+	Extra Info: Failed to send message.
+20:03:55:0585> Error [Code = 10001]:-
+	[SN 26004285] CMGMotorCtrl::LLGetStatusBits(v,rv); Internal Code = 19221205.
+	Description: Internal Error
+	Notes: An APT Server internal error has occurred.
+	Extra Info: No extra information.
+20:03:55:0769> [SN 26004469] CMGMotorCtrl::LLGetStatusBits(v,rv)
+	[Internal Code: 19201205; Description: 'Normal' category event.; Notes: No notes.; Extra Info: No extra information.]
+20:03:55:0770> Error [Code = 10001]:-
+	[MG17Core.DLL] Internal; Internal Code = 18190209.
+	Description: Internal Error
+	Notes: An APT Server internal error has occurred.
+	Extra Info: No extra information.
+20:04:07:0420> Error [Code = 10001]:-
+	[MG17Core.DLL] CMGControls::SendMGMsgHW(); Internal Code = 16352908.
+	Description: Internal Error
+	Notes: An APT Server internal error has occurred.
+	Extra Info: Failed to send message.
+*****************************************************************************
+
+*****************************************************************************
+
+Event Log generated 20:04:22  星期日, 十二月 11, 2022
+Thorlabs APT Logging Server (Built: Apr 15 2021 08:35:02). 
+Server Version:- 3:0:0:6.
+
+
+20:03:52:0945> Error [Code = 10001]:-
+	[MG17Core.DLL] CMGControls::SendMGMsgHW(); Internal Code = 16352908.
+	Description: Internal Error
+	Notes: An APT Server internal error has occurred.
+	Extra Info: Failed to send message.
+20:03:54:0499> [SN 26004469] CMGMotorCtrl::MoveJog(0, 2)
+	[Internal Code: 11420508; Description: 'Normal' category event.; Notes: No notes.; Extra Info: No extra information.]
+20:03:54:0499> Error [Code = 10001]:-
+	[MG17Core.DLL] Internal; Internal Code = 18190209.
+	Description: Internal Error
+	Notes: An APT Server internal error has occurred.
+	Extra Info: No extra information.
+20:03:54:0860> Error [Code = 10001]:-
+	[MG17Core.DLL] CMGControls::SendMGMsgHW(); Internal Code = 16352908.
+	Description: Internal Error
+	Notes: An APT Server internal error has occurred.
+	Extra Info: Failed to send message.
+20:03:55:0212> [SN 26004285] CMGMotorCtrl::LLGetStatusBits(v,rv)
+	[Internal Code: 19201205; Description: 'Normal' category event.; Notes: No notes.; Extra Info: No extra information.]
+20:03:55:0212> Error [Code = 10001]:-
+	[MG17Core.DLL] Internal; Internal Code = 18190209.
+	Description: Internal Error
+	Notes: An APT Server internal error has occurred.
+	Extra Info: No extra information.
+20:03:55:0384> Error [Code = 10001]:-
+	[MG17Core.DLL] CMGControls::SendMGMsgHW(); Internal Code = 16352908.
+	Description: Internal Error
+	Notes: An APT Server internal error has occurred.
+	Extra Info: Failed to send message.
+20:03:55:0585> Error [Code = 10001]:-
+	[SN 26004285] CMGMotorCtrl::LLGetStatusBits(v,rv); Internal Code = 19221205.
+	Description: Internal Error
+	Notes: An APT Server internal error has occurred.
+	Extra Info: No extra information.
+20:03:55:0769> [SN 26004469] CMGMotorCtrl::LLGetStatusBits(v,rv)
+	[Internal Code: 19201205; Description: 'Normal' category event.; Notes: No notes.; Extra Info: No extra information.]
+20:03:55:0770> Error [Code = 10001]:-
+	[MG17Core.DLL] Internal; Internal Code = 18190209.
+	Description: Internal Error
+	Notes: An APT Server internal error has occurred.
+	Extra Info: No extra information.
+20:04:07:0420> Error [Code = 10001]:-
+	[MG17Core.DLL] CMGControls::SendMGMsgHW(); Internal Code = 16352908.
+	Description: Internal Error
+	Notes: An APT Server internal error has occurred.
+	Extra Info: Failed to send message.
+*****************************************************************************
+
